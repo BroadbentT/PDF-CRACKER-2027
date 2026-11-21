@@ -1,6 +1,10 @@
 # PDF CRACKER
 ## A PYTHON SCRIPT FILE TO CRACK ENCRYPTED PDF FILES.
 
+<p align="center">
+  <img src="https://github.com/BroadbentT/PDF-CRACKER/blob/master/Cyberpunk%20PDF%20Cracker%20Banner.png">
+</p>
+
 Usage: python3 pdf-cracker.py topsecret.pdf
 
 

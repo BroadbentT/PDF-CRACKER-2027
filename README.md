@@ -43,15 +43,26 @@ A Python script file to crack encrypted `.pdf` files using brute force. The scri
 
 ---
 
-### COMPUTER MISUSE ACT 1990 - SECTION 3A
+## LEGAL DISCLAIMER
 
-This software program has been specifically written for the purpose of legitimate penetration testing and should not be used for any other unauthorised or nefarious reasons.
+### COMPUTER MISUSE ACT 1990 – SECTION 3A
+
+This software has been specifically developed for legitimate penetration testing, authorised security assessments, binary analysis and educational research.
+
+It must not be used for unauthorised access, unlawful exploitation or any other malicious or nefarious purpose.
+
+Users are responsible for ensuring that all testing and investigations are conducted with appropriate authorisation and in accordance with applicable legislation.
 
 ---
 
-Found this project useful, or would like to buy the developer a coffee — make a donation.
+## SUPPORT THE PROJECT
 
-[Donate via PayPal](https://paypal.me/TerenceBroadbent)
+Found PDF CRACKER useful, or would like to buy the developer a coffee?
 
+Donations Are Appreciated:
 
+https://paypal.me/TerenceBroadbent
 
+---
+
+**PDF CRACKER | Python 3 | PDF Password Recovery | Dictionary & Hash Attacks**
